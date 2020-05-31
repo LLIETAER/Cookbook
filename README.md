@@ -1,2 +1,2 @@
 # Cookbook
-My cookbook. Here you will fin unorganize bits of python code for testing purpose.
+My cookbook. Here you will fin unorganized bits of python code for testing purpose.
