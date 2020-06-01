@@ -1,2 +1,2 @@
-# Cookbook
-My cookbook. Here you will fin unorganized bits of python code for testing purpose.
+# Cookbook Expert Exchange
+I use this branch to test given solutions to questions authors

@@ -1,2 +1,2 @@
 # Cookbook
-I use this directory for to test given solutions to Expert Exchange questions authors
+My cookbook. Here you will fin unorganized bits of python code for testing purpose.

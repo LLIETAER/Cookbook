@@ -44,9 +44,9 @@ class AsyncApp(App):
         return Builder.load_string(kv)
 
     def app_func(self):
-        '''This will run both methods asynchronously and then block until they
+        """This will run both methods asynchronously and then block until they
         are finished
-        '''
+        """
         self.other_task = asyncio.ensure_future(self.waste_time_freely())
 
         async def run_wrapper():
