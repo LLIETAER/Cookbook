@@ -6,7 +6,7 @@ import platform
 if platform.system() == "Darwin":
     import osascript
 
-TEST = 99
+TEST = 98
 
 if TEST == 0:
     print(pathlib.Path().absolute())
